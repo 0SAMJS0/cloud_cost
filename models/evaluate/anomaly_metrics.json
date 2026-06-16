@@ -1,0 +1,14 @@
+{
+  "model": "anomaly",
+  "recall": 0.9692307692307692,
+  "fp_rate": 0.0008403361344537816,
+  "precision": 0.9545454545454546,
+  "tp": 63,
+  "fp": 3,
+  "fn": 2,
+  "tn": 3567,
+  "n_anomalies": 65,
+  "contamination": 0.018,
+  "threshold_fp": 0.05,
+  "pass": true
+}

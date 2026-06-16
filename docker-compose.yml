@@ -1,0 +1,30 @@
+# One command runs the whole system:  docker-compose up
+# Both services build from the same Dockerfile (same image) and only differ by command.
+# Shared folders + the SQLite log are mounted so the API and dashboard see identical files.
+
+services:
+  api:
+    build: .
+    image: cloud-cost-optimizer:latest
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./common:/app/common
+      - ./predictions.db:/app/predictions.db
+
+  dashboard:
+    # Reuse the image the api service builds, so docker only builds once.
+    image: cloud-cost-optimizer:latest
+    command: streamlit run dashboard/app.py --server.address=0.0.0.0 --server.port=8501 --server.headless=true
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./common:/app/common
+      - ./predictions.db:/app/predictions.db
+    depends_on:
+      - api

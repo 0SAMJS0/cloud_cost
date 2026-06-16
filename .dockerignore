@@ -1,0 +1,11 @@
+__pycache__/
+**/__pycache__/
+*.pyc
+.git/
+.gitignore
+notebooks/
+.venv/
+venv/
+.env
+*.zip
+.DS_Store

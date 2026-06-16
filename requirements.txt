@@ -1,0 +1,17 @@
+# Phase 1
+pandas
+numpy
+
+# Phase 2 - modeling
+scikit-learn
+xgboost      # optional: scripts fall back to sklearn HistGradientBoosting if missing
+joblib
+
+# Phase 3 - serving API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Phase 4 - dashboard
+streamlit
+altair       # ships with streamlit; pinned here for the highlighted anomaly markers

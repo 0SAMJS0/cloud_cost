@@ -1,0 +1,14 @@
+{
+  "model": "waste",
+  "best_model": "RandomForestClassifier",
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "lr_precision": 0.9981718464351006,
+  "lr_recall": 1.0,
+  "rf_precision": 1.0,
+  "rf_recall": 1.0,
+  "test_instances": 6,
+  "threshold_precision": 0.8,
+  "pass": true
+}

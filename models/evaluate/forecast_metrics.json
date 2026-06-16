@@ -1,0 +1,16 @@
+{
+  "model": "forecast",
+  "best_model": "XGBoost",
+  "rmse": 0.7337195974726601,
+  "mape": 13.647190673097201,
+  "gb_model": "XGBoost",
+  "gb_rmse": 0.7337195974726601,
+  "gb_mape": 13.647190673097201,
+  "rf_rmse": 0.727835025668112,
+  "rf_mape": 13.921915166870507,
+  "test_days": 30,
+  "n_train": 2821,
+  "n_test": 591,
+  "threshold_mape": 15.0,
+  "pass": true
+}

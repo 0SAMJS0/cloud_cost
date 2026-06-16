@@ -1,0 +1,440 @@
+{
+  "forecast": {
+    "instance_id": "i-00006704",
+    "instance_type": "c5.large",
+    "history": [
+      {
+        "date": "2024-06-01",
+        "cpu_avg": 28.23,
+        "memory_avg": 33.4,
+        "network_in": 2.0781,
+        "network_out": 0.2349,
+        "cost_usd": 2.109
+      },
+      {
+        "date": "2024-06-02",
+        "cpu_avg": 31.01,
+        "memory_avg": 37.8,
+        "network_in": 1.9448,
+        "network_out": 1.9945,
+        "cost_usd": 2.2162
+      },
+      {
+        "date": "2024-06-03",
+        "cpu_avg": 48.31,
+        "memory_avg": 71.95,
+        "network_in": 6.1266,
+        "network_out": 5.7252,
+        "cost_usd": 2.5265
+      },
+      {
+        "date": "2024-06-04",
+        "cpu_avg": 51.51,
+        "memory_avg": 40.15,
+        "network_in": 8.7913,
+        "network_out": 3.6982,
+        "cost_usd": 1.7341
+      },
+      {
+        "date": "2024-06-05",
+        "cpu_avg": 61.37,
+        "memory_avg": 52.41,
+        "network_in": 2.7428,
+        "network_out": 3.6871,
+        "cost_usd": 2.4305
+      },
+      {
+        "date": "2024-06-06",
+        "cpu_avg": 51.49,
+        "memory_avg": 57.33,
+        "network_in": 5.6392,
+        "network_out": 4.6759,
+        "cost_usd": 2.412
+      },
+      {
+        "date": "2024-06-07",
+        "cpu_avg": 47.28,
+        "memory_avg": 55.58,
+        "network_in": 6.1042,
+        "network_out": 4.2573,
+        "cost_usd": 2.2428
+      },
+      {
+        "date": "2024-06-08",
+        "cpu_avg": 29.19,
+        "memory_avg": 33.17,
+        "network_in": 0.0,
+        "network_out": 1.9511,
+        "cost_usd": 2.2424
+      },
+      {
+        "date": "2024-06-09",
+        "cpu_avg": 31.36,
+        "memory_avg": 32.28,
+        "network_in": 0.0,
+        "network_out": 2.4569,
+        "cost_usd": 2.2231
+      },
+      {
+        "date": "2024-06-10",
+        "cpu_avg": 42.5,
+        "memory_avg": 43.61,
+        "network_in": 4.8719,
+        "network_out": 0.0,
+        "cost_usd": 2.0854
+      },
+      {
+        "date": "2024-06-11",
+        "cpu_avg": 46.4,
+        "memory_avg": 68.21,
+        "network_in": 5.5511,
+        "network_out": 6.2526,
+        "cost_usd": 2.6541
+      },
+      {
+        "date": "2024-06-12",
+        "cpu_avg": 51.51,
+        "memory_avg": 61.16,
+        "network_in": 6.2986,
+        "network_out": 2.2964,
+        "cost_usd": 2.4024
+      },
+      {
+        "date": "2024-06-13",
+        "cpu_avg": 49.14,
+        "memory_avg": 50.75,
+        "network_in": 4.2015,
+        "network_out": 4.0481,
+        "cost_usd": 2.4298
+      },
+      {
+        "date": "2024-06-14",
+        "cpu_avg": 58.73,
+        "memory_avg": 65.42,
+        "network_in": 4.7614,
+        "network_out": 3.1379,
+        "cost_usd": 2.3863
+      },
+      {
+        "date": "2024-06-15",
+        "cpu_avg": 27.85,
+        "memory_avg": 32.55,
+        "network_in": 0.0,
+        "network_out": 2.4971,
+        "cost_usd": 2.3299
+      },
+      {
+        "date": "2024-06-16",
+        "cpu_avg": 27.73,
+        "memory_avg": 33.4,
+        "network_in": 1.6025,
+        "network_out": 1.4277,
+        "cost_usd": 2.18
+      },
+      {
+        "date": "2024-06-17",
+        "cpu_avg": 66.79,
+        "memory_avg": 68.66,
+        "network_in": 5.8008,
+        "network_out": 3.8101,
+        "cost_usd": 2.3896
+      },
+      {
+        "date": "2024-06-18",
+        "cpu_avg": 46.31,
+        "memory_avg": 57.5,
+        "network_in": 2.9118,
+        "network_out": 5.5892,
+        "cost_usd": 1.2344
+      },
+      {
+        "date": "2024-06-19",
+        "cpu_avg": 59.82,
+        "memory_avg": 71.26,
+        "network_in": 2.4277,
+        "network_out": 5.8837,
+        "cost_usd": 1.3099
+      },
+      {
+        "date": "2024-06-20",
+        "cpu_avg": 60.56,
+        "memory_avg": 86.8,
+        "network_in": 5.9671,
+        "network_out": 4.6946,
+        "cost_usd": 2.6272
+      },
+      {
+        "date": "2024-06-21",
+        "cpu_avg": 65.09,
+        "memory_avg": 62.89,
+        "network_in": 11.9618,
+        "network_out": 5.8755,
+        "cost_usd": 2.571
+      },
+      {
+        "date": "2024-06-22",
+        "cpu_avg": 24.0,
+        "memory_avg": 34.44,
+        "network_in": 1.6966,
+        "network_out": 0.0,
+        "cost_usd": 2.0964
+      },
+      {
+        "date": "2024-06-23",
+        "cpu_avg": 27.43,
+        "memory_avg": 37.98,
+        "network_in": 0.3411,
+        "network_out": 0.0,
+        "cost_usd": 2.0349
+      },
+      {
+        "date": "2024-06-24",
+        "cpu_avg": 31.36,
+        "memory_avg": 56.8,
+        "network_in": 1.4642,
+        "network_out": 2.6183,
+        "cost_usd": 2.3739
+      },
+      {
+        "date": "2024-06-25",
+        "cpu_avg": 57.32,
+        "memory_avg": 89.46,
+        "network_in": 4.9382,
+        "network_out": 2.4566,
+        "cost_usd": 2.2957
+      },
+      {
+        "date": "2024-06-26",
+        "cpu_avg": 51.84,
+        "memory_avg": 57.03,
+        "network_in": 10.8845,
+        "network_out": 3.3949,
+        "cost_usd": 2.3707
+      },
+      {
+        "date": "2024-06-27",
+        "cpu_avg": 49.2,
+        "memory_avg": 55.69,
+        "network_in": 7.3672,
+        "network_out": 3.1402,
+        "cost_usd": 2.2278
+      },
+      {
+        "date": "2024-06-28",
+        "cpu_avg": 40.86,
+        "memory_avg": 45.44,
+        "network_in": 4.0434,
+        "network_out": 0.0,
+        "cost_usd": 2.03
+      },
+      {
+        "date": "2024-06-29",
+        "cpu_avg": 19.5,
+        "memory_avg": 31.99,
+        "network_in": 1.8432,
+        "network_out": 1.3636,
+        "cost_usd": 2.1841
+      },
+      {
+        "date": "2024-06-30",
+        "cpu_avg": 21.84,
+        "memory_avg": 21.11,
+        "network_in": 1.8027,
+        "network_out": 1.0199,
+        "cost_usd": 2.1303
+      }
+    ]
+  },
+  "waste_wasteful": {
+    "cpu_avg": 5.83,
+    "memory_avg": 15.96,
+    "network_in": 6.7024,
+    "network_out": 0.6972,
+    "instance_type": "t3.micro",
+    "current_monthly_cost": 9.01
+  },
+  "waste_healthy": {
+    "cpu_avg": 21.84,
+    "memory_avg": 21.11,
+    "network_in": 1.8027,
+    "network_out": 1.0199,
+    "instance_type": "c5.large",
+    "current_monthly_cost": 63.91
+  },
+  "anomaly": {
+    "instance_id": "i-00006704",
+    "series": [
+      {
+        "date": "2024-03-13",
+        "cost_usd": 2.1465
+      },
+      {
+        "date": "2024-03-14",
+        "cost_usd": 1.3246
+      },
+      {
+        "date": "2024-03-15",
+        "cost_usd": 2.1906
+      },
+      {
+        "date": "2024-03-16",
+        "cost_usd": 2.1656
+      },
+      {
+        "date": "2024-03-17",
+        "cost_usd": 2.2427
+      },
+      {
+        "date": "2024-03-18",
+        "cost_usd": 2.3323
+      },
+      {
+        "date": "2024-03-19",
+        "cost_usd": 2.1262
+      },
+      {
+        "date": "2024-03-20",
+        "cost_usd": 2.2416
+      },
+      {
+        "date": "2024-03-21",
+        "cost_usd": 2.6276
+      },
+      {
+        "date": "2024-03-22",
+        "cost_usd": 2.2499
+      },
+      {
+        "date": "2024-03-23",
+        "cost_usd": 1.984
+      },
+      {
+        "date": "2024-03-24",
+        "cost_usd": 2.1606
+      },
+      {
+        "date": "2024-03-25",
+        "cost_usd": 1.2963
+      },
+      {
+        "date": "2024-03-26",
+        "cost_usd": 2.4014
+      },
+      {
+        "date": "2024-03-27",
+        "cost_usd": 2.2105
+      },
+      {
+        "date": "2024-03-28",
+        "cost_usd": 2.2678
+      },
+      {
+        "date": "2024-03-29",
+        "cost_usd": 2.5453
+      },
+      {
+        "date": "2024-03-30",
+        "cost_usd": 2.3697
+      },
+      {
+        "date": "2024-03-31",
+        "cost_usd": 2.224
+      },
+      {
+        "date": "2024-04-01",
+        "cost_usd": 2.6039
+      },
+      {
+        "date": "2024-04-02",
+        "cost_usd": 7.0947
+      },
+      {
+        "date": "2024-04-03",
+        "cost_usd": 2.3142
+      },
+      {
+        "date": "2024-04-04",
+        "cost_usd": 2.3216
+      },
+      {
+        "date": "2024-04-05",
+        "cost_usd": 2.458
+      },
+      {
+        "date": "2024-04-06",
+        "cost_usd": 2.018
+      },
+      {
+        "date": "2024-04-07",
+        "cost_usd": 2.128
+      },
+      {
+        "date": "2024-04-08",
+        "cost_usd": 2.3302
+      },
+      {
+        "date": "2024-04-09",
+        "cost_usd": 2.0959
+      },
+      {
+        "date": "2024-04-10",
+        "cost_usd": 2.379
+      },
+      {
+        "date": "2024-04-11",
+        "cost_usd": 2.4496
+      },
+      {
+        "date": "2024-04-12",
+        "cost_usd": 2.4369
+      },
+      {
+        "date": "2024-04-13",
+        "cost_usd": 2.1506
+      },
+      {
+        "date": "2024-04-14",
+        "cost_usd": 1.9971
+      },
+      {
+        "date": "2024-04-15",
+        "cost_usd": 2.3743
+      },
+      {
+        "date": "2024-04-16",
+        "cost_usd": 2.0373
+      },
+      {
+        "date": "2024-04-17",
+        "cost_usd": 2.0911
+      },
+      {
+        "date": "2024-04-18",
+        "cost_usd": 2.5468
+      },
+      {
+        "date": "2024-04-19",
+        "cost_usd": 2.2594
+      },
+      {
+        "date": "2024-04-20",
+        "cost_usd": 2.084
+      },
+      {
+        "date": "2024-04-21",
+        "cost_usd": 2.0939
+      },
+      {
+        "date": "2024-04-22",
+        "cost_usd": 2.2567
+      }
+    ]
+  },
+  "_meta": {
+    "forecast_instance": "i-00006704",
+    "wasteful_instance": "i-000346d9",
+    "healthy_instance": "i-00006704",
+    "anomaly_instance": "i-00006704",
+    "spike_date": "2024-04-02"
+  }
+}
